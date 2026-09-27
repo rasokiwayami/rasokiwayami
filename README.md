@@ -1,26 +1,36 @@
-# Sora Miyawaki / 宮脇蒼空
+# 宮脇蒼空 / Sora Miyawaki
 
-横浜国立大学で物理・応用物理を学ぶ学部生です。OpenAI Student CollectiveのCampus Leadとして活動しています。
+横浜国立大学で物理・応用物理を学ぶ学部1年生です。長いPDFを翻訳して読むためのツールや、考えを整理するCodexスキルを作っています。プログラミングサークルLumosでは、大学の課題を管理するChrome拡張機能の改善に参加しています。
 
-勉強や調べもの、日常の困りごとからゲーム制作まで、さまざまな場面でAIを活用しています。AIとの対話で考えを整理し、自分だけでは難しかったことに挑戦することに関心があります。
+AIは、調べものやアイデアの整理、コードの作成、不具合の調査などに使っています。このGitHubには、その中で作ったものや、参加しているプロジェクトを載せています。
 
-プログラミングサークルLumosでは、学生向けLMS拡張機能の改善に参加しています。Student Collectiveでは、ワークショップや気軽に相談できる場を通じて、学生それぞれの「やってみたいこと」にAIをどう役立てられるか、一緒に探っていきたいと考えています。
+## 作っているもの・参加している活動
 
-## Projects & contributions
+### [OpenLongPDF Translator](https://github.com/rasokiwayami/openlongpdf-translator)
 
-- [PlainStorm](https://github.com/rasokiwayami/plainstorm) — 曖昧なアイデアを、対話・調査・小さな試作で具体化するCodexスキル。
-- [OpenLongPDF Translator](https://github.com/rasokiwayami/openlongpdf-translator) — 長い外国語PDFを、ページ番号を保った翻訳・読書ノートにするワークフロー。
-- [Assignment Manager for YNU LMS](https://github.com/Lumos-Programming/Assignment-Manager-for-YNU-LMS) — 大学の課題を管理するChrome拡張機能。Lumosのプロジェクトに改善で参加しています。
-- [Portfolio](https://github.com/rasokiwayami/sora-portfolio) — 制作物をまとめたポートフォリオ。
+長い外国語のPDFを、ページ番号を残した翻訳・読書ノートにするツールです。PDFから取り出した文章を分割し、ChatGPTなどで翻訳した結果をMarkdownやHTMLにまとめます。原文のどのページに書かれていたかを確かめながら読むためのものです。
+
+### [PlainStorm](https://github.com/rasokiwayami/plainstorm)
+
+「やりたいことはあるけれど、まだうまく説明できない」という段階で使うCodexスキルです。質問で考えを整理し、必要に応じて調べたり、案を比較したり、小さく試したりして、次に取り組むことを決めていきます。
+
+### [大学の課題管理拡張 / YNU LMS](https://github.com/Lumos-Programming/Assignment-Manager-for-YNU-LMS)
+
+大学のLMS上に未提出の課題をまとめて表示する、LumosのChrome拡張機能です。既存のプロジェクトに参加し、[課題の完了・復元操作](https://github.com/Lumos-Programming/Assignment-Manager-for-YNU-LMS/pull/14)、[拡張機能の表示名の日本語化](https://github.com/Lumos-Programming/Assignment-Manager-for-YNU-LMS/pull/15)、[自動テストの実行環境](https://github.com/Lumos-Programming/Assignment-Manager-for-YNU-LMS/pull/29)を追加しました。これらの変更は取り込まれています。
+
+### OpenAI Student Collective
+
+2026年9月にCampus Leadとして参加しました。今学期は、キャンパスでOpenAIのツールを使うワークショップや、相談・作業ができるスタジオアワーを開催する予定です。
 
 ## English
 
-I'm an undergraduate studying Physics and Applied Physics at Yokohama National University, and a Campus Lead in the OpenAI Student Collective.
+I'm Sora Miyawaki, a first-year Physics and Applied Physics student at Yokohama National University. I make tools for reading long PDFs and a Codex skill for working through ideas. I also contribute to a university assignment-management extension through our programming club, Lumos.
 
-I explore how AI can support learning, creativity, and everyday life. I use conversations with AI to clarify ideas and try things beyond my current experience, from reading and everyday problem-solving to making games.
+I use AI to look things up, organize ideas, write code, and investigate problems. Here are some of the projects I work on:
 
-In Lumos, our programming club, I contribute to a student-built LMS browser extension. Through the Student Collective, I hope to organize workshops and informal spaces where students can explore how AI can support what they want to try.
+- **OpenLongPDF Translator** splits text from long foreign-language PDFs into translation batches and assembles the results into Markdown or HTML reading notes, retaining page numbers for reference.
+- **PlainStorm** is a Codex skill for ideas that are not yet clear. It uses questions, research, comparisons, and small experiments to help decide what to do next.
+- **YNU LMS assignment manager** is an existing Lumos Chrome extension. My merged contributions added task completion and restoration, a Japanese display name, and an automated test setup. The links above show those changes.
+- **OpenAI Student Collective:** I joined as a Campus Lead in September 2026. This semester, I plan to organize campus workshops and studio hours using OpenAI tools.
 
-The projects above include a skill for developing ideas through conversation and research, a workflow for reading long foreign-language PDFs, contributions to a university task-management extension, and my portfolio.
-
-[LinkedIn](https://www.linkedin.com/in/sora-miyawaki-a5b848433/)
+[LinkedIn](https://www.linkedin.com/in/sora-miyawaki-a5b848433/) · [Portfolio repository](https://github.com/rasokiwayami/sora-portfolio)
