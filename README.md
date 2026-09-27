@@ -1,36 +1,21 @@
 # 宮脇蒼空 / Sora Miyawaki
 
-横浜国立大学で物理・応用物理を学ぶ学部1年生です。長いPDFを翻訳して読むためのツールや、考えを整理するCodexスキルを作っています。プログラミングサークルLumosでは、大学の課題を管理するChrome拡張機能の改善に参加しています。
+横浜国立大学の物理工学EPに所属しています。2026年9月、学生のAI活用を支援するOpenAI Student CollectiveのCampus Leadに選ばれました。プログラミングサークル「Lumos」に所属しています。
 
-AIは、調べものやアイデアの整理、コードの作成、不具合の調査などに使っています。このGitHubには、その中で作ったものや、参加しているプロジェクトを載せています。
+<img src="assets/campus-lead-2026.png" alt="OpenAI Student Collective Campus Lead 2026" width="180" />
 
-## 作っているもの・参加している活動
+### 制作・参加プロジェクト
 
-### [OpenLongPDF Translator](https://github.com/rasokiwayami/openlongpdf-translator)
+- [Assignment-Manager-for-YNU-LMS](https://github.com/Lumos-Programming/Assignment-Manager-for-YNU-LMS)  
+  Lumosで開発している、横浜国立大学向けの課題管理ブラウザ拡張。開発に参加しています。
 
-長い外国語のPDFを、ページ番号を残した翻訳・読書ノートにするツールです。PDFから取り出した文章を分割し、ChatGPTなどで翻訳した結果をMarkdownやHTMLにまとめます。原文のどのページに書かれていたかを確かめながら読むためのものです。
+- DiscordのAIボット  
+  会話の流れを踏まえて返答するボットを制作・改善しています。
 
-### [PlainStorm](https://github.com/rasokiwayami/plainstorm)
+- ゲーム・3D制作  
+  Unreal Engineを使ったゲームの試作や、キャラクターの動きの制作に取り組んでいます。
 
-「やりたいことはあるけれど、まだうまく説明できない」という段階で使うCodexスキルです。質問で考えを整理し、必要に応じて調べたり、案を比較したり、小さく試したりして、次に取り組むことを決めていきます。
+- 学内プロジェクト  
+  学内の関係者と協力して進めるプロジェクトにも参加しています。
 
-### [大学の課題管理拡張 / YNU LMS](https://github.com/Lumos-Programming/Assignment-Manager-for-YNU-LMS)
-
-大学のLMS上に未提出の課題をまとめて表示する、LumosのChrome拡張機能です。既存のプロジェクトに参加し、[課題の完了・復元操作](https://github.com/Lumos-Programming/Assignment-Manager-for-YNU-LMS/pull/14)、[拡張機能の表示名の日本語化](https://github.com/Lumos-Programming/Assignment-Manager-for-YNU-LMS/pull/15)、[自動テストの実行環境](https://github.com/Lumos-Programming/Assignment-Manager-for-YNU-LMS/pull/29)を追加しました。これらの変更は取り込まれています。
-
-### OpenAI Student Collective
-
-2026年9月にCampus Leadとして参加しました。今学期は、キャンパスでOpenAIのツールを使うワークショップや、相談・作業ができるスタジオアワーを開催する予定です。
-
-## English
-
-I'm Sora Miyawaki, a first-year Physics and Applied Physics student at Yokohama National University. I make tools for reading long PDFs and a Codex skill for working through ideas. I also contribute to a university assignment-management extension through our programming club, Lumos.
-
-I use AI to look things up, organize ideas, write code, and investigate problems. Here are some of the projects I work on:
-
-- **OpenLongPDF Translator** splits text from long foreign-language PDFs into translation batches and assembles the results into Markdown or HTML reading notes, retaining page numbers for reference.
-- **PlainStorm** is a Codex skill for ideas that are not yet clear. It uses questions, research, comparisons, and small experiments to help decide what to do next.
-- **YNU LMS assignment manager** is an existing Lumos Chrome extension. My merged contributions added task completion and restoration, a Japanese display name, and an automated test setup. The links above show those changes.
-- **OpenAI Student Collective:** I joined as a Campus Lead in September 2026. This semester, I plan to organize campus workshops and studio hours using OpenAI tools.
-
-[LinkedIn](https://www.linkedin.com/in/sora-miyawaki-a5b848433/) · [Portfolio repository](https://github.com/rasokiwayami/sora-portfolio)
+[LinkedIn](https://www.linkedin.com/in/sora-miyawaki-a5b848433/)
